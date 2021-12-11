@@ -1,0 +1,12 @@
+gracz1 900
+gracz2 1000
+gracz3 3123
+gracz4 32143
+gracz5 12356
+gracz6 998
+gracz7 999
+gracz8 997
+gracz9 5005
+
+
+abc 3515.47 

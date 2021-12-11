@@ -1,0 +1,28 @@
+﻿  main.cpp
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(168,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(221,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(221,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(260,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(290,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(301,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(304,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(305,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(308,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(432,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(454,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(805,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(805,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(983,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(985,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(993,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(995,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(997,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(1065,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(1074,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(1078,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(317,8): warning C4101: 'file': unreferenced local variable
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  szablon2vs19.vcxproj -> C:\Users\lukin\OneDrive\INF\Frog\Release\szablon2vs19.exe

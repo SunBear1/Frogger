@@ -1,0 +1,53 @@
+﻿  main.cpp
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(108,28): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(116,28): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(501,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(502,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(503,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(504,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(505,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(506,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(507,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(508,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(509,64): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(510,64): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(511,64): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(512,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(513,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(514,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(515,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(516,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(517,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(518,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(519,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(542,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(543,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(544,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(545,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(546,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(547,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(548,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(549,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(550,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(551,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(552,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(553,59): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(554,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(555,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(556,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(557,60): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(558,58): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(559,58): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(560,58): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(561,58): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(563,52): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(563,37): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(617,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(620,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : zobacz deklarację „sprintf”
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(140,35): warning C4101: "distance1_3": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(140,22): warning C4101: "distance1_2": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(140,47): warning C4101: "distance1_4": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(140,9): warning C4101: "distance1_1": lokalna zmienna, do której nie istnieje odwołanie
+  szablon2vs19.vcxproj -> C:\Users\lukin\OneDrive\INF\Frog\Debug\szablon2vs19.exe

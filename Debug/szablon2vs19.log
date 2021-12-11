@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(173,28): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(226,39): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(226,30): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(400,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(422,15): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(773,40): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(773,31): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(943,65): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(945,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\lukin\OneDrive\INF\Frog\main.cpp(285,8): warning C4101: "file": lokalna zmienna, do której nie istnieje odwołanie
+  szablon2vs19.vcxproj -> C:\Users\lukin\OneDrive\INF\Frog\Debug\szablon2vs19.exe
